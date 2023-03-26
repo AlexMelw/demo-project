@@ -1,2 +1,3 @@
 # demo-project
-Demo on how to install git
+
+Demo on how to install and configure git
